@@ -1,0 +1,60 @@
+[
+  
+    {
+        "id": 0,
+        "title": "Interstellar",
+        "imageUrl": "http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX214_AL_.jpg",
+        "releaseDate": "2014-11-07",
+        "rating": "PG-13",
+        "length": 169,
+        "stars": [
+            {
+                "name": "Matthew McConaughey"
+            },
+            {
+                "name": "Anne Hathaway"
+            },
+            {
+                "name": "Jessica ChastainNothing"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Fury",
+        "imageUrl": "http://ia.media-imdb.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1_SX214_AL_.jpg",
+        "releaseDate": "2014-10-17",
+        "rating": "R",
+        "length": 134,
+        "stars": [
+            {
+                "name": "Brad Pitt"
+            },
+            {
+                "name": "Shia LaBeouf"
+            },
+            {
+                "name": "Logan Lerman"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "The Theory of Everything",
+        "imageUrl": "http://ia.media-imdb.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_SX214_AL_.jpg",
+        "releaseDate": "2015-01-16",
+        "rating": "PG-13",
+        "length": 123,
+        "stars": [
+            {
+                "name": "Eddie Redmayne"
+            },
+            {
+                "name": "Felicity Jones"
+            },
+            {
+                "name": "Tom Prior"
+            }
+        ]
+    }
+]
